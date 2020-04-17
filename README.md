@@ -8,4 +8,4 @@ A python script for automate designing html quiz page
 * Choose "Browse" button and select file of quiz
   > Every questions must be on one-line
 * Hover over status text bellow "Browse" button to see the full path to file
-* Press "ساخت فایل های کوییز" to make an html which should be paste to ![quiz_repo](https://github.com/itsgp/Quiz) to replace index.html
+* Press "ساخت فایل های کوییز" to make an html which should be paste to [quiz_repo](https://github.com/itsgp/Quiz) to replace index.html
